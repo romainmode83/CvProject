@@ -1,13 +1,13 @@
 {
-  "main.css": "%7Bromainmode83%7D.github.io/%7BCvProject%7D/static/css/main.03296ae2.chunk.css",
-  "main.js": "%7Bromainmode83%7D.github.io/%7BCvProject%7D/static/js/main.8bd378f8.chunk.js",
-  "main.js.map": "%7Bromainmode83%7D.github.io/%7BCvProject%7D/static/js/main.8bd378f8.chunk.js.map",
-  "static/js/1.d1adfa0f.chunk.js": "%7Bromainmode83%7D.github.io/%7BCvProject%7D/static/js/1.d1adfa0f.chunk.js",
-  "static/js/1.d1adfa0f.chunk.js.map": "%7Bromainmode83%7D.github.io/%7BCvProject%7D/static/js/1.d1adfa0f.chunk.js.map",
-  "runtime~main.js": "%7Bromainmode83%7D.github.io/%7BCvProject%7D/static/js/runtime~main.16ff0ca6.js",
-  "runtime~main.js.map": "%7Bromainmode83%7D.github.io/%7BCvProject%7D/static/js/runtime~main.16ff0ca6.js.map",
-  "static/css/main.03296ae2.chunk.css.map": "%7Bromainmode83%7D.github.io/%7BCvProject%7D/static/css/main.03296ae2.chunk.css.map",
-  "index.html": "%7Bromainmode83%7D.github.io/%7BCvProject%7D/index.html",
-  "precache-manifest.3eee345c40dcca541008bcb5c2b90139.js": "%7Bromainmode83%7D.github.io/%7BCvProject%7D/precache-manifest.3eee345c40dcca541008bcb5c2b90139.js",
-  "service-worker.js": "%7Bromainmode83%7D.github.io/%7BCvProject%7D/service-worker.js"
+  "main.css": "/CvProject/static/css/main.03296ae2.chunk.css",
+  "main.js": "/CvProject/static/js/main.8bd378f8.chunk.js",
+  "main.js.map": "/CvProject/static/js/main.8bd378f8.chunk.js.map",
+  "static/js/1.d1adfa0f.chunk.js": "/CvProject/static/js/1.d1adfa0f.chunk.js",
+  "static/js/1.d1adfa0f.chunk.js.map": "/CvProject/static/js/1.d1adfa0f.chunk.js.map",
+  "runtime~main.js": "/CvProject/static/js/runtime~main.3b287fa5.js",
+  "runtime~main.js.map": "/CvProject/static/js/runtime~main.3b287fa5.js.map",
+  "static/css/main.03296ae2.chunk.css.map": "/CvProject/static/css/main.03296ae2.chunk.css.map",
+  "index.html": "/CvProject/index.html",
+  "precache-manifest.a19012ba43ae95b22ee5a789cc41dd44.js": "/CvProject/precache-manifest.a19012ba43ae95b22ee5a789cc41dd44.js",
+  "service-worker.js": "/CvProject/service-worker.js"
 }

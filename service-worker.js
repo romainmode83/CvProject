@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "%7Bromainmode83%7D.github.io/%7BCvProject%7D/precache-manifest.3eee345c40dcca541008bcb5c2b90139.js"
+  "/CvProject/precache-manifest.a19012ba43ae95b22ee5a789cc41dd44.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("%7Bromainmode83%7D.github.io/%7BCvProject%7D/index.html", {
+workbox.routing.registerNavigationRoute("/CvProject/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
