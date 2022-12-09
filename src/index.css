@@ -1,0 +1,136 @@
+body {
+    padding : 2em;
+}
+h2 {
+    font-size: 1.5em;
+    padding : 1em;
+}
+.app {
+    max-width: 1280px;
+    margin: auto;
+    border: 1px solid black;
+    
+}
+
+.hideBtn {
+    padding: 8px;
+    position: absolute;
+    left: 10px;
+    top: 10px;
+}
+textarea {
+    resize: none;
+}
+/* buttons */
+.edit {
+    width: 60px;
+    padding: 0.5em;
+    position: absolute;
+    left: 50px;
+    top: 50px;
+    transform: translate(-50%, -50%);
+}
+.add {
+    width: 60px;
+    padding: 0.5em;
+    position: absolute;
+    left: 50px;
+    top: 100px;
+    transform: translate(-50%, -50%);
+}
+.delete  {
+    width: 60px;
+        padding: 0.5em;
+        position: absolute;
+        left: 50px;
+        top: 150px;
+        transform: translate(-50%, -50%);
+}
+
+/* header */ 
+header {
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+
+.left {
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+    padding: 2em;
+}
+
+.infos {
+    padding: 2em;
+    display: flex;
+    flex-direction: column;
+    gap : 1em;
+}
+.nomprenom {
+    font-size: 2em;
+    display: flex;
+    gap: 0.5em;
+}
+
+/* skills */
+
+.skills {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 200px;
+    padding : 0 0 2em 0;
+}
+h2 {
+    width: 70%;
+    border-top: 1px solid black;
+    text-align: center;
+}
+.skillList {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    width: 70%;
+    margin: auto;
+    padding: 0.5em;
+}
+.skillList li {
+    text-align: center;
+    padding: 0.5em;
+}
+
+.education, .jobs {
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        min-height: 200px;
+        padding : 0 0 2em 0;
+}
+.container {
+    width: 70%;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+    gap: 2em;
+}
+h3 {
+    font-weight: bold;
+    padding: 0.5em 0;
+}
+article p {
+    display: flex;
+    gap : 0.2em;
+}
+p {
+    padding: 0.2em 0;
+}
+
+.hidden {
+    visibility: hidden;
+}
